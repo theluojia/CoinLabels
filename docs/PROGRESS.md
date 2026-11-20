@@ -143,6 +143,10 @@
 
 用户决定从 main 根目录发布整个 CoinLabels 仓库。新增根目录 index.html，自动跳转到已生成的 output/index.html；新增 .nojekyll，让 Pages 直接提供静态文件。output/html_assets/ 随仓库发布。两份正式 Word 保持不纳入 Git，继续通过 v0.1.0 Release 提供。待在 GitHub 仓库 Settings → Pages 选择 Deploy from a branch、main、/(root) 并保存，再核验在线页面与图片。
 
+### 2026-11-20：增加 CoinLabels 快速同步与提交脚本
+
+按 USCoins 的单 `main` 分支工作流，新增 `scripts/pull_main.sh` 与 `scripts/push_main.sh`。同步脚本要求干净工作区、只快进；若本地有远端没有的提交则停止并提示核对，避免远端历史回退后误推旧提交。提交脚本先检查远端状态，自动纳入已跟踪改动，未跟踪文件须交互选择，`--yes` 不自动纳入未跟踪文件；`output/*.docx` 继续由 `.gitignore` 排除。根目录 `README.md` 已加入两台电脑间的用法说明。GitHub Pages 已由用户启用，首次构建和部署成功。
+
 ## 接续方法
 
 1. 先查看本文件最后一项，避免把“进行中”误当“已完成”。

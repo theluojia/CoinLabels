@@ -8,6 +8,17 @@
 
 启用 GitHub Pages 后，访问 [CoinLabels 在线标签总览](https://theluojia.github.io/CoinLabels/)；仓库根目录会跳转至 output/index.html。预览图随仓库发布，两份印刷 Word 仍从 [v0.1.0 Release](https://github.com/theluojia/CoinLabels/releases/tag/v0.1.0) 下载。
 
+## 跨电脑同步与快速提交
+
+在 CoinLabels 项目根目录的 `main` 分支运行：
+
+```bash
+./scripts/pull_main.sh
+./scripts/push_main.sh "描述本次修改"
+```
+
+`pull_main.sh` 只做快进同步，工作区有改动或本地有远端没有的提交时会停止。`push_main.sh` 先获取远端状态，已跟踪的改动会纳入提交；未跟踪的新文件须交互选择。传入 `--yes` 可跳过确认，但不会自动提交未跟踪文件。两份 `output/*.docx` 已被 Git 忽略，仍通过 Release 发布。若远端分支曾回退，先核对本地独有提交，不要直接推送。
+
 ## 接续顺序
 
 1. 看 `docs/PROGRESS.md` 最后一项，确定当前已完成、尚待核对的内容；画图前看 `docs/DESIGN_RULES.md`，专题细节看 `docs/BATCHES.md`。
