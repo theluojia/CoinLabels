@@ -139,6 +139,10 @@
 
 用户确认此版并要求重新生成 Word。运行 `scripts/normalize_backgrounds.py`、`scripts/validate_labels.py`，139 枚正反背景校验 0 错误；重建 `output/index.html`，139 对预览，目视检查 `output/html_assets/JB116_front.webp`，规格行清晰。运行 `scripts/generate_labels.py` 同步重建正面与背面 Word，两个模板的几何断言均通过，正面 3 页、背面 4 页。两份 DOCX 的 ZIP 完整性检查均无错误，各含 139 张单元格合成图。抽取正面第 129 张单元格图确认 JB116 已使用本版新龙和清爽的左下文字区。
 
+### 2026-11-20：CoinLabels GitHub Pages 入口
+
+用户决定从 main 根目录发布整个 CoinLabels 仓库。新增根目录 index.html，自动跳转到已生成的 output/index.html；新增 .nojekyll，让 Pages 直接提供静态文件。output/html_assets/ 随仓库发布。两份正式 Word 保持不纳入 Git，继续通过 v0.1.0 Release 提供。待在 GitHub 仓库 Settings → Pages 选择 Deploy from a branch、main、/(root) 并保存，再核验在线页面与图片。
+
 ## 接续方法
 
 1. 先查看本文件最后一项，避免把“进行中”误当“已完成”。

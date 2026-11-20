@@ -4,6 +4,10 @@
 
 标签文字以原始 `sources/Label01.pdf` 为主要批量来源；PDF 未收录的 JB123—JB126 经用户明确指定，从网站 `coin_data.json` 补齐，并在 `data/overrides.json` 记录来源。当前 139 枚均有正反面背景。`qr/` 已有 138 枚经官网目录核对的专属二维码；JB120 尚未找到指定目录中的唯一详情页，暂用指向官方普通纪念币目录的 `qr/fallback.png`。
 
+## 在线预览
+
+启用 GitHub Pages 后，访问 [CoinLabels 在线标签总览](https://theluojia.github.io/CoinLabels/)；仓库根目录会跳转至 output/index.html。预览图随仓库发布，两份印刷 Word 仍从 [v0.1.0 Release](https://github.com/theluojia/CoinLabels/releases/tag/v0.1.0) 下载。
+
 ## 接续顺序
 
 1. 看 `docs/PROGRESS.md` 最后一项，确定当前已完成、尚待核对的内容；画图前看 `docs/DESIGN_RULES.md`，专题细节看 `docs/BATCHES.md`。
