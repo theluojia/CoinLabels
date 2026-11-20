@@ -1,0 +1,697 @@
+[
+  {
+    "id": "JB01-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB01-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB01-3",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB02",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB03",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB04",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB05",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB06-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB06-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB06-3",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB07",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB08",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB09",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB10",
+    "description_font_pt": 5.16,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB11-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB11-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB12-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB12-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB12-3",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB13-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB13-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB13-3",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB14-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB14-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB15",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB16",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB17",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB18",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB19",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB20",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB21",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB22",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB23",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB24",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB25",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB26",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB27",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB28-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB28-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB29",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB30",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB31",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB32",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB33",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB34",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB35",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB36",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB37",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB38",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB39-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB39-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB40",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB41",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB42",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB43",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB44",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB45",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB46",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB47",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB48",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB49",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB50",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB51",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB52",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB53",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB54",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB55",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB56",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB57",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB58",
+    "description_font_pt": 5.16,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB59",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB60",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB61",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB62",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB63",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB64",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB65",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB66",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB67",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB68",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB69",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB70",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB71",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB72",
+    "description_font_pt": 5.16,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB73",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB74",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB75",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB76",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB77",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB78",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB79",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB80",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB81",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB82",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB83",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB84",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB85",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB86",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB87",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB88",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB89",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB90",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB91",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB92",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB93",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB94",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB95",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB96",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB97",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB98",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB99",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB100",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB101",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB102",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB103",
+    "description_font_pt": 5.28,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB104",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB105",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB106",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB107",
+    "description_font_pt": 5.16,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB108-1",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB108-2",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB109",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB110",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB111",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB112",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB113",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB114",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB115",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB116",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB117",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB118",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB119",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB120",
+    "description_font_pt": 5.16,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB121",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB122",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB123",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB124",
+    "description_font_pt": 5.16,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB125",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  },
+  {
+    "id": "JB126",
+    "description_font_pt": 5.4,
+    "needs_shorter_label_description": false
+  }
+]

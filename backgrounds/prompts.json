@@ -1,0 +1,268 @@
+{
+  "front": [
+    {
+      "id": "JB50",
+      "reference": "front/JB50.png; ../coins/JB50_f.webp",
+      "output": "front/JB50.png",
+      "tool": "image_gen",
+      "prompt": "Precise-object edit of existing JB50 background using the coin reverse as authority. Preserve warm ivory paper, peach sky, left corner branches, rocks, flowers and color. Replace only right-side palace with a frontal Forbidden City central-axis view: Taihe Gate, Golden Water Bridge and watercourse, three halls receding behind, opened palace gate leaves as side framing. No three-arched red city wall. Keep left 60% clear for title, no text or coins."
+    },
+    {
+      "id": "JB93",
+      "reference": "front/JB93.png; ../coins/JB93_f.webp",
+      "output": "front/JB93.png",
+      "tool": "image_gen",
+      "prompt": "Second precise-object edit after user review: keep existing warm ivory patterned paper, plum branches, peach lantern, clouds, brocade, palette and left text space. Redraw seated monkey in a clear three-quarter FRONT view, face and chest aligned, exactly two arms with one hand on knee and the other near chest, exactly two legs and feet. No salute or overhead arm. One tail visibly starts from the lower back/rump and curls right, with no appendage at shoulder or neck. Remove red curved hood or ribbon behind the head that could look like another limb. Blend into the original watercolor style."
+    },
+    {
+      "id": "JB103",
+      "reference": "front/JB103.png; ../coins/JB103_f.webp",
+      "output": "front/JB103.png",
+      "tool": "image_gen",
+      "prompt": "Precise-object edit of Taishan background. Keep mountains, sunrise, pine, Nantianmen, Eighteen Bends, paper, color and layout. Change only the small porter at lower right to modern practical dark work jacket, trousers, work shoes and simple cap, still carrying load on mountain steps. No historical robe, sash, leggings or topknot; no other changes."
+    },
+    {
+      "id": "JB115",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Peking opera sheng male scholar in teal robes, elegant water sleeves. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB115.png"
+    },
+    {
+      "id": "JB118",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Peking opera dan female performer in delicate pink robes with peony and flowing sleeves. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB118.png"
+    },
+    {
+      "id": "JB122",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Peking opera jing painted face warrior in elaborate armor, strong theatrical gesture and chrysanthemum. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB122.png"
+    },
+    {
+      "id": "JB126",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Peking opera chou comic performer with white nose makeup, crouched playful fan pose, lanterns and plum blossom. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB126.png"
+    },
+    {
+      "id": "JB113",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Sanjiangyuan plateau wetland, Tibetan antelope and snow mountains. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB113.png"
+    },
+    {
+      "id": "JB114",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Giant panda mother and cub among bamboo with distant Sichuan mountains. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB114.png"
+    },
+    {
+      "id": "JB117",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Northeast Chinese tiger and Amur leopard in pine forest. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB117.png"
+    },
+    {
+      "id": "JB120",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Hainan gibbon family in tropical rainforest canopy with distant Wuzhi mountain. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB120.png"
+    },
+    {
+      "id": "JB124",
+      "prompt": "Generate a single flat printable background artwork, exactly 2.5:1 extra wide horizontal composition for a 50mm wide 20mm tall coin box FRONT label. Refined Chinese watercolor and ink on pale warm ivory paper, teal with natural restrained accents. Theme: Wuyi mountain Danxia peaks, winding Jiuqu stream and tea terraces. Main subject contained fully in rightmost 38 percent, with head and important details at least 10 percent inside top/bottom/right edges. Left 60 percent contains almost invisible softly faded/defocused scene continuing naturally into pale paper, reserved for direct overlaid title and metadata. No hard-edged panels, no seams, no borders, no lettering or text, no coins, no QR code. Organic artwork reaches all edges, trim tolerant. A complete purpose-designed panoramic artwork, never a crop of a vertical composition.",
+      "tool": "image_gen",
+      "output": "front/JB124.png"
+    },
+    {
+      "id": "JB13-2",
+      "prompt": "Match JB13-1 palette exactly: pale dusty rose, muted mauve and warm ivory. Place the complete historic school building scene in the RIGHT third, vertically centered; keep the LEFT two thirds pale and open.",
+      "tool": "image_gen",
+      "output": "front/JB13-2.png"
+    },
+    {
+      "id": "JB13-3",
+      "prompt": "Match JB13-1 and JB13-2 palette exactly: pale dusty rose, muted mauve and warm ivory. Place the complete assembly hall scene in the RIGHT third, vertically centered; keep the LEFT two thirds pale and open.",
+      "tool": "image_gen",
+      "output": "front/JB13-3.png"
+    },
+    {
+      "id": "JB37",
+      "prompt": "For the NPC/CPPCC series, use a light slate blue-gray and cool ivory palette matched to JB55. Place the full traditional gate and wall scene in the RIGHT third, vertically centered; keep the LEFT two thirds pale and open.",
+      "tool": "image_gen",
+      "output": "front/JB37.png"
+    },
+    {
+      "id": "JB55",
+      "prompt": "For the NPC/CPPCC series, use a light slate blue-gray and cool ivory palette matched to JB37. Place the full neoclassical hall scene in the RIGHT third, safely inset and vertically centered; remove the street lamp; keep the LEFT two thirds pale and open.",
+      "tool": "image_gen",
+      "output": "front/JB55.png"
+    },
+    {
+      "id": "JB28-1",
+      "prompt": "Hong Kong Basic Law label: the right-side main subject is an elegant upright Basic Law book, its front cover bearing the national emblem above the exact three characters 基本法. Add restrained peonies, pale blue-gray foliage and fine gold line flourishes. Match JB28-2's cool blue-gray and ivory watercolor palette and paper texture; do not copy JB28-2's skyline as the main subject. Keep the left 60 percent pale for text.",
+      "tool": "image_gen",
+      "output": "front/JB28-1.png"
+    },
+    {
+      "id": "JB39-1",
+      "prompt": "Macau Basic Law label: the right-side main subject is an elegant upright Basic Law book, its front cover bearing the national emblem above the exact three characters 基本法. Add only a subtle Macau waterfront silhouette and water ripples. Match JB39-2's pale jade-green and ivory watercolor palette and paper texture; do not copy JB39-2's heritage gate and boats as the main subject. Keep the left 60 percent pale for text.",
+      "tool": "image_gen",
+      "output": "front/JB39-1.png"
+    },
+    {
+      "id": "JB96",
+      "prompt": "Use the coin REVERSE centerpiece only: sculptural 90, a five-point 八一 star inside laurel, and 1927–2017. Do not use the national emblem side. Put the full motif on the RIGHT third; leave left two thirds pale. Muted sage, olive-gray and ivory.",
+      "tool": "image_gen",
+      "output": "front/JB96.png"
+    },
+    {
+      "id": "JB102",
+      "prompt": "Use the coin REVERSE centerpiece only: unmistakable large Arabic 70, with a small circular five-star/Tiananmen 1949–2019 medallion integrated into the zero and fine sunrays. Do not use the national emblem side. Put the full motif on the RIGHT third; leave left two thirds pale. Warm ivory, pale peach and restrained cinnabar.",
+      "tool": "image_gen",
+      "output": "front/JB102.png"
+    },
+    {
+      "id": "JB107",
+      "prompt": "Use the coin REVERSE centerpiece only: sculptural 100 with a hammer-and-sickle mark and two small 1921/2021 anniversary medallions, with fine rays. Do not use the national emblem side. Put the full motif on the RIGHT third; leave left two thirds pale. Pale dusty rose, muted mauve and ivory.",
+      "tool": "image_gen",
+      "output": "front/JB107.png"
+    },
+    {
+      "id": "JB13-1",
+      "reference": "front/JB13-1.png; ../coins/JB13-1_f.webp; revised front/JB13-2.png and front/JB13-3.png",
+      "output": "front/JB13-1.png",
+      "tool": "image_gen",
+      "prompt": "Redraw the right-side First Congress shikumen building after its coin motif: plain tall left gable, four decorated arched doorways, muted red-brown brick and doors. Retain pale lotus-pink ivory paper, leafy wreath, faded hills and left text space; add only small sage and pink color notes matching revised JB13-2/3."
+    },
+    {
+      "id": "JB13-2",
+      "reference": "front/JB13-2.png; references/2026-11-20/JB13-2_zunyi_photo.png; ../coins/JB13-2_f.webp; front/JB13-1.png",
+      "output": "front/JB13-2.png",
+      "tool": "image_gen",
+      "prompt": "Replace only the Zunyi site with the photo's two-storey dark-brick facade, continuous white arcades, red balcony rail and central door, long dark tiled roof and small correctly integrated red-window roof dormer. Preserve the JB13 blush paper, hills, leafy wreath and left text space."
+    },
+    {
+      "id": "JB13-3",
+      "reference": "front/JB13-3.png; ../coins/JB13-3_f.webp; front/JB13-1.png",
+      "output": "front/JB13-3.png",
+      "tool": "image_gen",
+      "prompt": "Replace only the inaccurate building with the People's Great Hall: long modern pale-column facade, raised center and one carved white marble huabiao prominently in front, guided by the coin. Preserve the JB13 blush paper, hills, leafy wreath, pale flowers and left text space."
+    },
+    {
+      "id": "JB37",
+      "reference": "front/JB37.png; ../coins/JB37_b.webp; front/JB55.png",
+      "output": "front/JB37.png",
+      "tool": "image_gen",
+      "prompt": "Replace the generic one-storey courtyard gate with Zhongnanhai Xinhua Gate from the coin: substantial two-storey tiled pavilion, repeated upper arches, lower colonnade and central entrance. Keep cool blue-gray watercolor, clouded sky and paved forecourt. Final correction shrank and shifted the gate to the far right and removed the left tree to clear the long title."
+    },
+    {
+      "id": "JB47",
+      "reference": "front/JB47.png; references/2026-11-20/JB47_chaotian_photo_1.png; references/2026-11-20/JB47_chaotian_photo_3.png; ../coins/JB47_f.webp; front/JB48.png; also reviewed references/2026-11-20/JB47_chaotian_photo_2.png and JB47_chaotian_photo_4.png",
+      "output": "front/JB47.png",
+      "tool": "image_gen",
+      "prompt": "Redraw only Chaotian Temple's crowded tiered roof and low wide frontal gate after the user photos and coin: yellow tiles, upswept ceramic dragon and deity ridges, ornate higher center and small side wings. Keep the existing banyan, left corner leaves, brick, waves, warm ivory paper and Taiwan-series watercolor language."
+    },
+    {
+      "id": "JB28-1",
+      "reference": "front/JB28-1.png",
+      "output": "front/JB28-1.png",
+      "tool": "image_gen",
+      "prompt": "Recolor only the existing cool blue paper, hills and peony foliage into restrained pale blush and muted rose-red. Keep exact Basic Law book, national emblem, cover characters, flowers, gold lines, composition and left text space."
+    },
+    {
+      "id": "JB28-2",
+      "reference": "front/JB28-2.png; revised front/JB28-1.png",
+      "output": "front/JB28-2.png",
+      "tool": "image_gen",
+      "prompt": "Recolor only the Hong Kong skyline, mountains, harbour wash and paper from cool blue into the same pale blush and muted rose-red as JB28-1. Keep all buildings, ferry, reflections, gold lines and exact composition."
+    },
+    {
+      "id": "JB116",
+      "reference": "references/2026-11-20/JB116_claws_annotated.png; ../coins/JB116_f.webp; references/2026-11-20/JB116_first_version.png; front/JB119.png",
+      "output": "front/JB116.png",
+      "tool": "image_gen",
+      "prompt": "Generate a completely new wide Chinese New Year dragon label background from scratch, not a local edit of the failed dragon. Use the marked and clean original coin for the four claw locations; use the prior JB116 and neighboring zodiac art only for warm ivory paper, red-gold/teal palette, fine ornamental style, dragon-scale lantern, lingzhi mushrooms and airy layout. Draw one continuous dragon on the right 40%: head above, body curls down and across the bottom, tail rises on the far right. Exactly four claws, each with a visible continuous limb rooted in the body: raised left claw near lantern; large bottom claw on a stout leg from lower hip; inner-right claw reaching left into the curl on a curved forearm visibly bridging back to the right ascending body across the formerly empty blue-circled gap; smaller outer-right claw branching outward from the same ascending body. No floating wrist or paw, no extra claws, no paw hidden behind head. Keep the left 60% pale and sparse for later text. Follow-up layout cleanup: remove the large lower-left lingzhi cluster at x=850–1070,y=485–720, fading clouds into pale paper so the footer text is clear; preserve the dragon and all four connected limbs. No coin, red boxes, blue marks, text, frame, QR or watermark."
+    }
+  ],
+  "back": [
+    {
+      "id": "JB115",
+      "reference": "front/JB115.png",
+      "output": "back/JB115.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve teal willow, pale plum blossom, flowing cream-and-teal silk brushstrokes; remove the man. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB118",
+      "reference": "front/JB118.png",
+      "output": "back/JB118.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve the pink peonies and pale pink flowing silk, teal willow and cream paper; remove the woman. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB122",
+      "reference": "front/JB122.png",
+      "output": "back/JB122.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve golden chrysanthemums, teal embroidered swirls and pale mountain ink; remove the warrior, face and weapon. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB126",
+      "reference": "front/JB126.png",
+      "output": "back/JB126.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve reddish plum flowers and lanterns, teal leaves and warm ochre paper; remove the clown and fan. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB113",
+      "reference": "front/JB113.png",
+      "output": "back/JB113.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve blue-teal distant snowy mountains, pale ochre wetland, flowers at bottom; remove every antelope. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB114",
+      "reference": "front/JB114.png",
+      "output": "back/JB114.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve bamboo, sage-green mountain wash and white small flowers; remove the pandas. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB117",
+      "reference": "front/JB117.png",
+      "output": "back/JB117.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve pine branches, pale blue forest wash and ochre rock textures; remove tiger and leopard. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB120",
+      "reference": "front/JB120.png",
+      "output": "back/JB120.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve the tropical canopy, broad leaves, blue-green misty mountain wash and ochre paper; remove all gibbons. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB124",
+      "reference": "front/JB124.png",
+      "output": "back/JB124.png",
+      "tool": "image_gen",
+      "prompt": "Edit this exact front-label illustration into its visually matching reverse label background. Output 1.92:1 landscape, all-over full bleed. Keep the reference's exact warm ivory paper grain, watercolor pigments, original decorative motifs and brushwork; it should obviously be the other side of the SAME specific artwork, not a new generic texture. Preserve the Wuyi ochre Danxia forms, winding teal river and tea-leaf edge details, make scenery ghostlike and secondary. Keep individual decorative details gently recognizable at the edges, at about 25-35% of original contrast. Middle 85 percent extremely pale softly diffused to support dense dark Chinese text and two coin photos on left, QR on right. Do not add any lettering, coins, QR, frame, blank panels or borders. Remove foreground character/animals and replace them with natural continuations of the original washes. Avoid turning the whole thing into featureless beige."
+    },
+    {
+      "id": "JB28-1",
+      "reference": "back/JB28-1.png; revised front/JB28-1.png",
+      "output": "back/JB28-1.png",
+      "tool": "image_gen",
+      "prompt": "Recolor only the blue back paper and lower corner hills to pale blush and muted rose-red matching the new front. Keep golden wisps, tiny ivory petals, exact placement and very pale central text area."
+    },
+    {
+      "id": "JB28-2",
+      "reference": "back/JB28-2.png; revised front/JB28-2.png; revised back/JB28-1.png",
+      "output": "back/JB28-2.png",
+      "tool": "image_gen",
+      "prompt": "Recolor only the blue back paper, hills and tiny waterfront skyline to pale blush and muted rose-red matching the new front and JB28-1 back. Keep every silhouette, gold wisp and very pale central text area."
+    }
+  ]
+}
